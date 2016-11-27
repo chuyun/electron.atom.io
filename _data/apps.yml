@@ -2284,3 +2284,12 @@
     - "productivity"
     - "3D"
   icon: "grabcad-print.png"
+-
+  name: "QReader"
+  description: "make QR code Analytic and generate easy"
+  website: "http://chuyun.github.io/project/qreader"
+  keywords:
+    - "QReader"
+    - "electron"
+  license: "MIT"
+  icon: "qreader.png"
